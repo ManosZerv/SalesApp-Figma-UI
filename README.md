@@ -1,6 +1,6 @@
 # SalesApp - UI/UX Design
 
-This repository contains the Figma-based UI/UX design for **SalesApp**, a sales application prototype that helps users manage customer details across various industries, including Retail, Hotel, Education, and Technology. The project was created as part of a course on *Designing User Interfaces and Experiences (UI/UX)*.
+This repository contains the Figma-based UI/UX design: [SalesApp](https://www.figma.com/proto/SGT7cps9I3sxPEttN6jDhr/Sales-App?page-id=0%3A1&node-id=6-3&node-type=canvas&viewport=1744%2C32%2C0.37&t=xm94K0wpuUuAydbC-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=6%3A3&share=1), a sales application prototype that helps users manage customer details across various industries, including Retail, Hotel, Education, and Technology. The project was created as part of a course on *Designing User Interfaces and Experiences (UI/UX)*.
 
 ## Screens
 
